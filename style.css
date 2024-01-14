@@ -248,7 +248,7 @@ nav ul li a {
 .dropdown-content ul li {
   line-height: 50px;
   list-style: none;
-  margin-left: 70px;
+  margin-left: 5vw;
   padding: 1px;
 }
 
